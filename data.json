@@ -1,14 +1,44 @@
 [
     {
-        "nome": "JavaScript",
-        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id repellat quam fugiat error adipisci, fugit voluptates aliquid labore libero, eius ducimus? Quam expedita iusto ab iste illo ipsa veritatis fugit.",
-        "ano": 1995,
-        "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+        "nome": "Desenvolvedor Frontend",
+        "ano": 2013,
+        "descricao": "Responsável pela criação de interfaces visuais e interativas utilizando HTML, CSS e JavaScript. Atua diretamente na experiência do usuário em aplicações web.",
+        "link": "https://roadmap.sh/frontend"
     },
     {
-        "nome": "Python",
-        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id repellat quam fugiat error adipisci, fugit voluptates aliquid labore libero, eius ducimus? Quam expedita iusto ab iste illo ipsa veritatis fugit.",
-        "ano": 1991,
-        "link": "https://docs.python.org/3/"
+        "nome": "Desenvolvedor Backend",
+        "ano": 2000,
+        "descricao": "Foca na lógica, banco de dados e regras de negócio. Constrói APIs, gerencia servidores e garante o funcionamento interno das aplicações.",
+        "link": "https://roadmap.sh/backend"
+    },
+    {
+        "nome": "Cientista de Dados",
+        "ano": 2012,
+        "descricao": "Analisa grandes volumes de dados, cria modelos estatísticos e extrai insights para apoiar decisões estratégicas em empresas.",
+        "link": "https://roadmap.sh/ai"
+    },
+    {
+        "nome": "Engenheiro de Dados",
+        "ano": 2010,
+        "descricao": "Constrói pipelines, armazena, transforma e organiza dados usados por cientistas e analistas. Cria infraestruturas robustas de dados.",
+        "link": "https://roadmap.sh/data-engineer"
+    },
+    {
+        "nome": "DevOps",
+        "ano": 2009,
+        "descricao": "Une desenvolvimento e operações, automatizando deploys, monitoramento e infraestrutura para garantir entregas contínuas e eficientes.",
+        "link": "https://roadmap.sh/devops"
+    },
+    {
+        "nome": "Analista de Segurança da Informação",
+        "ano": 2005,
+        "descricao": "Identifica vulnerabilidades, implementa medidas de segurança e protege sistemas contra ataques e vazamentos.",
+        "link": "https://www.coursera.org/articles/cyber-security"
+    },
+    {
+        "nome": "QA (Quality Assurance)",
+        "ano": 1995,
+        "descricao": "Garante a qualidade de software por meio de testes manuais e automatizados. Busca falhas e assegura que o produto final funcione corretamente.",
+        "link": "https://roadmap.sh/qa"
     }
 ]
