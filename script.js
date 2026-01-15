@@ -35,8 +35,7 @@ function rederizarCards(dados) {
 
         <p>${dado.descricao}</p>
 
-        <a href="${dado.link}" target="_blank">Conheça mais da
-                    linguagem</a>
+        <a href="${dado.link}" target="_blank">Acesse o guia da área</a>
         `
 
         cardContainer.appendChild(article)
